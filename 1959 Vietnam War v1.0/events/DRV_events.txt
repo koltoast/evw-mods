@@ -1,0 +1,6 @@
+#VietnamWar_events.txt 177009-177013:
+	#177009 - DRV DoW's SVI, Vietnam War
+	#177010 - Formation of the Viet Cong
+	#177011 - USA leaves Vietnam
+	#177012 - North Vietnam surrenders to the South
+	#177013 - South Vietnam wins Vietnam War

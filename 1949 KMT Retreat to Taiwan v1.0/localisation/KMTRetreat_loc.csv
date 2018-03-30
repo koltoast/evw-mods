@@ -1,0 +1,52 @@
+#CODE;ENGLISH;FRENCH;GERMAN;POLSKI;SPANISH;ITALIAN;SWEDISH;CZECH;HUNGARIAN;DUTCH;PORTUGESE;RUSSIAN;FINNISH;x
+##################################################;;;;;;;;;;;;;;x
+# Decisions ;;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+## CHC ##;;;;;;;;;;;;;;x
+establish_the_prc_CHC_title;Establish the People's Republic of China;;;;;;;;;;;;;x
+establish_the_prc_CHC_desc;With our control over most of mainland China secured, and the remaining KMT forces in disarray, we can now formally establish the People's Republic of China and begin a new chapter in China's history free from imperialist interference.;;;;;;;;;;;;;x
+ceasefire_with_KMT_CHC_title;Declare ceasefire with the KMT;;;;;;;;;;;;;x
+ceasefire_with_KMT_CHC_desc;The time has come to declare a ceasefire with the remaining KMT forces on Taiwan, although this need not mark the end of our aim of eventual unification.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+## USA ##;;;;;;;;;;;;;;x
+blockade_taiwan_straight_USA_title;Send a fleet to blockade the Taiwan strait;;;;;;;;;;;;;x
+blockade_taiwan_straight_USA_desc;Although the KMT government has been forced to retreat to Taiwan, we can draw a line in the sand against further Communist encroachment by sending a fleet to blockade the Taiwan Strait and prevent any Communist landing attempts.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+# Events ;;;;;;;;;;;;;;x
+##################################################;;;;;;;;;;;;;;x
+## CHC ##;;;;;;;;;;;;;;x
+EVTNAME151020;Victory in the People's Liberation War!;;;;;;;;;;;;;x
+EVTDESC151020;Our People's Liberation Army, backed by the whole nation, has been fighting heroically and selflessly to defend the territorial sovereignty of our homeland, to protect the people's lives and property, and to relieve the people of their sufferings. Now, the People's War of Liberation has been essentially won, the reactionary rule of the Nationalist government overthrown, and the majority of the people in the country have been liberated. The Central People's Government Council has decided to declare to the governments of all other countries that our regime is the sole legal government representing all the people of the People's Republic of China.;;;;;;;;;;;;;x
+EVTOPTA151020;A glorious day;;;;;;;;;;;;;x
+EVTNAME151021;People's Republic of China Declared;;;;;;;;;;;;;x
+EVTDESC151021;After a number of successful campaigns against Nationalist forces which resulted in Communist control being extended across most of China, the Communist leadership has declared the establishment of the People's Republic of China from their new capital of Beijing.;;;;;;;;;;;;;x
+EVTOPTA151021;OK;;;;;;;;;;;;;x
+EVTNAME151023;PRC-RoC Ceasefire;;;;;;;;;;;;;x
+EVTDESC151023;The Chinese Communists and Nationalists have declared a ceasefire, leaving the Communists in control of the mainland and the nationalists in control of Taiwan, although it is an uneasy peace.;;;;;;;;;;;;;x
+EVTOPTA151023;OK;;;;;;;;;;;;;x
+EVTNAME151024;USA Blockades the Taiwan Strait;;;;;;;;;;;;;x
+EVTDESC151024;The imperialist United States has sent a fleet to blockade the Taiwan Strait, preventing us from dealing the final blow to the Nationalists cowering in Taiwan.;;;;;;;;;;;;;x
+EVTOPTA151024;We are forced into a cease-fire;;;;;;;;;;;;;x
+EVTOPTB151024;The USA will not stand in our way;;;;;;;;;;;;;x
+EVTNAME151025;Taiwan Strait Crisis Expands!;;;;;;;;;;;;;x
+EVTDESC151025;Communist China has declared war on the USA, claiming that their stationing of a fleet in the Taiwan strait is an unjustifiable violation of their territorial waters and an act of war. If the Communists are to reach Taiwan they must now fight their way past the formiddable naval forces of the USA.;;;;;;;;;;;;;x
+EVTOPTA151025;OK;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+## CHI ##;;;;;;;;;;;;;;x
+EVTNAME152050;People's Republic of China Declared;;;;;;;;;;;;;x
+EVTDESC152050;With most of China now under their control, and their armies inflicting upon us defeat after defeat, the Communist bandits have declared the establishment of the People's Republic of China from their new capital of Beijing. Now we face two options, neither of them ideal: withdraw to Taiwan and develop the island as a future springboard for the reclamation of mainland China, or continue to fight on in the hinterlands.;;;;;;;;;;;;;x
+EVTOPTA152050;A temporary withdrawal to Taiwan;;;;;;;;;;;;;x
+EVTOPTB152050;We will continue the fight here;;;;;;;;;;;;;x
+EVTNAME152052;Communist China Declares a Cease-fire;;;;;;;;;;;;;x
+EVTDESC152052;The Chinese Communists have backed down from their planned invasion of Taiwan and have declared a ceasefire. This will give us some breathing space, but it would be premature to assume that this means the end of their designs upon our remaining territory.;;;;;;;;;;;;;x
+EVTOPTA152052;OK;;;;;;;;;;;;;x
+EVTNAME152053;Taiwan Strait Crisis Expands!;;;;;;;;;;;;;x
+EVTDESC152053;Communist China has declared war on the USA, claiming that their stationing of a fleet in the Taiwan strait is an unjustifiable violation of their territorial waters and an act of war. If the Communists are to reach us on Taiwan they must now fight their way past the formiddable naval forces of the USA.;;;;;;;;;;;;;x
+EVTOPTA152053;This will be their undoing.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x
+## USA ##;;;;;;;;;;;;;;x
+EVTNAME354120;Communist China Declares War!;;;;;;;;;;;;;x
+EVTDESC354120;Communist China has declared war on us, claiming that our stationing of a fleet in the Taiwan strait is an unjustifiable violation of their territorial waters and an act of war. If the Communists intend to invade Taiwan they must now fight their way past the might of the U.S. Navy.;;;;;;;;;;;;;x
+EVTOPTA354120;We will not take this lightly.;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;x

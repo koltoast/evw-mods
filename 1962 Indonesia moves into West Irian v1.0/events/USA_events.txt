@@ -1,0 +1,5 @@
+#WestIrian_events.txt 354001-354004:
+	#354001 - pressure_HOL_westpapua_USA follow-up event
+	#354002 - The Dutch refuse to hand over WPA
+	#354003 - Indonesia accepts WPA and joins the USA
+	#354004 - Indonesia rejects our offer

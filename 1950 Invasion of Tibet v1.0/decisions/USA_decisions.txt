@@ -1,0 +1,3 @@
+#TibetInvasion_decisions.txt:
+	#intervene_tibet_CHC_USA - decide whether to intervene in rebellion in communist held Tibet
+	#intervene_tibet_CHI_USA - decide whether to intervene in rebellion in nationalist held Tibet

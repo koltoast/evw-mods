@@ -1,0 +1,8 @@
+#BushWar_events.txt:
+	#181010 - Referendum for Rhodesian Federation
+	#181011 - Successful Election for Independence in Northern Rhodesia (Zambia)
+	#181012 - MLW election for independence:
+	#181013 - Dominion of ZMB demands independence
+	#181014 - Dominion of MLW demands independence
+	#181015 - Rhodesian referendum for Independence
+	#181016 - Rhodesia unilaterally declares its independence

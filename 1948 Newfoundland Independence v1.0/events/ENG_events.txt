@@ -1,0 +1,8 @@
+#NewfoundlandIndependence_events.txt 181090-181096:
+	#181090 - The Newfoundland Question
+	#181091 - Newfoundland Referendum Results Favour Canada (weekly check?)
+	#181092 - Newfoundland Referendum Results Favour the USA (weekly check?)
+	#181093 - Newfoundland Referendum Results Favour Direct Rule (weekly check?)
+	#181094 - Canada accepts our offer of Newfoundland
+	#181095 - Canada rejects our offer of Newfoundland
+	#181096 - Canada pressures us to give them Newfoundland

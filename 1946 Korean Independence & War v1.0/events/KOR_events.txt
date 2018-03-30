@@ -1,0 +1,6 @@
+#KoreanWar_events.txt 233000-233004:
+	#233000 - The war with PRK gets worse: KOR digs in
+	#233001 - The USA intervene in favour of KOR
+	#233002 - armistice_koreanwar_KOR follow-up event
+	#233003 - PRK asks for an armistice
+	#233004 - The Korean War - Victory!

@@ -1,0 +1,2 @@
+#KMTRetreat_decisions.txt:
+	#blockade_taiwan_straight_USA 	- The USA protects the Chinese Nationalists on Taiwan

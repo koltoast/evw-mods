@@ -1,0 +1,4 @@
+#KoreanWar_decisions.txt:
+	#invade_south_CHC_PRK - PRK asks Communist China for support
+	#invade_south_SOV_PRK - PRK asks the USSR for support
+	#armistice_koreanwar_PRK - PRK ask for peace after the Korean War stalemate

@@ -1,0 +1,4 @@
+#DecolonisationIndia_decisions.txt:
+	#may_plan_ENG - propose IND independence
+	#june_plan_ENG - propose IND independence, second chance to do it divided
+	#mountbatten_plan_ENG - propose IND vote on how to be independent

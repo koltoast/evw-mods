@@ -1,0 +1,3 @@
+#ManchuriaTransfer_decisions.txt:
+	#manchurian_transfer_SOV - The Soviets hand over Manchuria to the Communist Chinese
+	#manchurian_transfer_CHI_SOV - The Soviets hand over Manchuria to the Nationalist Chinese

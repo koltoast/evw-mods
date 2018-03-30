@@ -1,0 +1,50 @@
+UN Conventions Concept Documentation.
+
+Start.
+
+1. UN Secretary General enacts the decision
+
+2. A major event occurs for the UN Secretary General, introducing the convention/declaration and giving them the options of:
+	  a. Large diplomatic investment in pushing the measure (decrease to UN prestige)
+	  b. Small diplomatic investment in pushing the measure (small decrease to UN prestige)
+	  c. No diplomatic investment in pushing the measure (unchanged UN prestige)
+	  
+   This event also creates a variable: var_UN_votes_For
+	
+	
+3. Each UN member which is not the subject of a UN embargo has a normal event fire, 
+	  asking them to vote For, vote Against, or Abstain on the resolution introducing the convention/declaration.
+	  
+   The AI chances for which one they pick include a number modifiers, including whether the UN Secretary General picked a. b. or c. in 2.
+	  
+   If they vote For the variable var_UN_votes_For is incremented by 1, if they vote Against the variable var_UN_votes_Against is decremented by 1.
+   Voting For or Against will also slightly increase or decrease their relation with the UN respectively.
+	
+	
+4. Once 3. has occured, the variable var_UN_votes_For is checked to see if it greater than 0 or not.
+      i. If it is greater than 0 then the Vote has passed, and the flow continues to 6.
+     ii. If the variable is not greater than 0 then the Vote has been defeated, and the flow continue to 5.
+   
+   
+5. A major event occurs for the UN Secretary General, informing them that the UN vote has failed.
+      The effect of this event is to decrease UN prestige and prevent the UN Secretary General from introducing the same issue for 4 years.
+   End.
+   
+   
+6. A major event occurs for the UN Secretary General, informing them that the UN vote has passed.
+      The effect of this event is to increase UN prestige.
+   
+
+7. Each UN member which vote For the measure in 3. has an event occur informing them that they have ratified the convention/declaration.
+      The effect of this event is to add a country modifier to their country with special effects to be specified by Gellert.
+	  It will also cause a minor increase to their prestige and UN prestige.
+	 
+	 
+8. Any UN member which voted Against the measure or Abstained in 3., or has revoked the measure and 30 days have passed,
+      will now be able to enact an international decision to ratify the convention/declaration provided they meet certain conditions.
+   There will be a delay through a country modifier to prevent two nations from ratifying it by this decision within a certain number of days.
+	  
+	  
+9. Any UN member which has ratified the convention/declaration and 30 days have passed,
+      will now be able to enact an international decision to revoke the convention/declaration provided they meet certain conditions.
+   End.

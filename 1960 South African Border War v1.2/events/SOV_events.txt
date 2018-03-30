@@ -1,0 +1,2 @@
+#BorderWar_events.txt:
+	#326020		#Event 01 for USSR – Support ANG (Major)

@@ -1,0 +1,4 @@
+#TurkishInvasionCYP_events.txt:
+	#181040 - The Cypriot Question (Optional Release)
+	#181041	- Cyprus demands independence (Demanded Release)
+	#181042	- Cyprus unilaterally declares its independence

@@ -1,0 +1,16 @@
+#GRE Expeditionary force in Cyprus
+ army = 
+ {
+  name = "Greek Expeditionary Army"
+  location = 7709
+  regiment = { type = hq_brigade name = "Army HQ" historical_model = 0 }
+  expeditionary_owner = GRE
+
+  division = 
+  {   
+   name = "Greek Expeditionary Brigade"
+   location = 7709
+   expeditionary_owner = GRE
+   regiment = { type = infantry_brigade name = "Greek Expeditionary Brigade" historical_model = 2 strength = 21 experience = 7 }
+  }
+ }

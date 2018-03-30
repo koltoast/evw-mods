@@ -1,0 +1,6 @@
+#BiafranWar_events.txt:
+	#274000 - The First Republic
+	#274001 - Authoritarian Coup d’état!
+	#274002 - Counter Coup!
+	#274003 - Biafran Declaration of Independence!
+	#274004	- BIF peace offer

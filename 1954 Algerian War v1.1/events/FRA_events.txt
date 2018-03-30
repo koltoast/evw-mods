@@ -1,0 +1,11 @@
+#AlgerianWar_events.txt 194008-194017:
+	#194008 - Unrest because FRA releases ALG early
+	#194009 - Red All-Saints' Day - ALG demands independence
+	#194010 - Café War attack (mild)
+	#194011 - Café War attack (medium)
+	#194012 - Café War attack (severe)
+	#194013 - The Battle of Philippeville - The Algerian rebels make an open move
+	#194014 - Local uprising in Algeria - FRA went hard-line
+	#194015 - Local uprising in Algeria
+	#194016 - Unrest because FRA releases ALG late and did not go the forgiving way
+	#194017 - Nation-wide uprising in Algeria

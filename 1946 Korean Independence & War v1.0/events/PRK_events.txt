@@ -1,0 +1,13 @@
+#KoreanWar_events.txt 291000-291011:
+	#291000 - invade_south_SOV_PRK follow-up event
+	#291001 - invade_south_CHC_PRK follow-up event
+	#291002 - USSR sends support for the war against KOR
+	#291003 - SOV does not give support
+	#291004 - China sends support for the war against KOR
+	#291005 - China joins PRK for the war against KOR
+	#291006 - China does not give support
+	#291007 - KOR asks for an armistice
+	#291008 - armistice_koreanwar_KOR follow-up event
+	#291009 - The Korean War - Victory! - PRK did it alone
+	#291010 - The Korean War - Victory! - PRK had Soviet or Chinese help
+	#291011 - CHC jumps in to help PRK in the Korean War

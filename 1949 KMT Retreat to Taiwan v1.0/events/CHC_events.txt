@@ -1,0 +1,6 @@
+#KMTRetreat_decisions.txt 151020-151025:
+	#151020 - Victory in the War of Liberation - Triggered by CHC decision establish_the_prc_CHC
+	#151021 - PRC established - Triggered by CHC decision establish_the_prc_CHC
+	#151023 - Peace between PRC and KMT - Triggered by CHC decision ceasefire_with_KMT_CHC
+	#151024 - US sends fleet to blockade Taiwan straight - Triggered by blockade_taiwan_straight_USA
+	#151025 - USA defends Taiwan against PRC aggression - Triggered by CHC event 151024 - US sends fleet to blockade Taiwan straight Opt B

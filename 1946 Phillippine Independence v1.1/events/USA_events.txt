@@ -1,0 +1,4 @@
+#PhilippineIndependence_events.txt 354103-354105:
+	#354103 - USA_fate_of_philippines follow-up event - Whether to allow independence or not
+	#354104 - demand_independence_PHI follow-up event - Whether to allow independence or not
+	#354105 - Intervene in philippines

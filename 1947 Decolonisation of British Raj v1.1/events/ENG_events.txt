@@ -1,0 +1,19 @@
+#DecolonisationIndia_events.txt 181061-181079:
+	#181061 - Royal Indian Navy mutinies
+	#181062 - Direct Action Day
+	#181063 - Follow up to may_plan_ENG - decide whether to ask for united or split India
+	#181064	- India has refused the May plan
+	#181065 - India has accepted the May plan
+	#181066 - India has refused the June plan
+	#181067 - India has accepted the June plan
+	#181068 - Follow up to june_plan_ENG - decide second proposal for India
+	#181069 - Follow up to mountbatten_plan_ENG - decide Mountbatten proposal for India
+	#181070 - India has decided to stay united
+	#181071 - India has decided to partition
+	#181072 - Riots in India
+	#181073 - Prevention of puppet India
+	#181074 - Prevention of puppet Pakistan	
+	#181075 - General Mayhem - hypothetical chaos in the event the UK tries to hold onto India
+	#181077 - Randomize United India
+	#181078 - Randomize Divided India
+	#181079 - Randomize Mountbatten Plan India

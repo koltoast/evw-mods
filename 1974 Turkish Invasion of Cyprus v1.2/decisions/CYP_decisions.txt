@@ -1,0 +1,3 @@
+#TurkishInvasionCYP_decisions.txt:
+	#CYP_demand_independence - CYP demands complete independence from ENG
+	#CYP_UDI				 - CYP unilaterally declares independence from ENG

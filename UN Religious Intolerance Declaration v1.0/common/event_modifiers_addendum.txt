@@ -1,0 +1,12 @@
+##################################################################################################
+# scriptable and usable for event-system below.
+##################################################################################################
+
+mod_UN_religious_intolerance_declaration_failure_delay = {
+}
+
+mod_UN_religious_intolerance_declaration = {
+}
+
+mod_UN_religious_intolerance_voting_delay = {
+}

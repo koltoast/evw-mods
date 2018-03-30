@@ -1,0 +1,47 @@
+#COUNTRY MODIFIERS
+human_rights_agitation_timer = { }
+human_rights_dissent = { 
+	ruling_party_support = -0.05
+	dissent_increase = 0.05
+}
+human_rights_reform_happiness = { 
+	ruling_party_support = 0.05
+	national_unity = 0.02
+	dissent_decrease = 0.05
+}
+defecting_general_intel = {
+	counter_espionage = -0.05
+}
+preventing_migration = {
+	dissent_increase = 0.05
+	ruling_party_support = -0.01
+}
+human_rights_trust = {
+	national_unity = 0.01
+	ruling_party_support = 0.02
+}
+brain_drain = {
+	research_efficiency = -0.05
+}
+
+#PROVINCE MODIFIERS
+educated_immigrants = {
+	research_efficiency = 0.02
+}
+forced_to_stay = {
+	local_revolt_risk = 3 #was 0.03
+}
+asylum_seekers = {
+	population_growth = 0.01
+	local_revolt_risk = 1 #0.01
+}
+border_migration_hr = {
+	population_growth = -0.01
+	local_revolt_risk = 1 #Potential increase in crime (ie human trafficking) - was 0.01
+}
+people_are_leaving = {
+	population_growth = -0.01
+}
+migration_hotspot = {
+	population_growth = 0.01
+}

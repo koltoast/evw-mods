@@ -1,0 +1,2 @@
+#IndochinaWar_decisions.txt:
+	#intervene_firstindochinawar_CHC - Whether to support DRV or not

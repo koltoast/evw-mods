@@ -1,0 +1,3 @@
+#BiafranWar_events.txt:
+	#128000	- Foreign Aid arrives
+	#128001	- NIG admits defeat and offers white peace

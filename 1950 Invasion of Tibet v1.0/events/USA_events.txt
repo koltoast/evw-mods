@@ -1,0 +1,3 @@
+#TibetInvasion_events.txt 354001-354002:
+	#354001 - intervene_tibet_CHC_USA follow-up event - decide whether to intervene in rebellion in communist held Tibet
+	#354002 - intervene_tibet_CHI_USA follow-up event - decide whether to intervene in rebellion in nationalist held Tibet

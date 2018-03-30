@@ -1,0 +1,6 @@
+#KoreanWar_events.txt 326000,326010-326017:
+	#326010 - Joint Commission on Korea - SOV
+	#326011 - Establishing the North Korean Provisional People's Committee
+	#326012 - Joint Commission fails to reach agreement - SOV
+	#326016 - UN supervised elections
+	#326000 - PRK asks for support for the invasion of KOR

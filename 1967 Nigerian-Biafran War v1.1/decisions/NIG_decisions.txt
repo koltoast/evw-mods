@@ -1,0 +1,4 @@
+#BiafranWar_decisions.txt:
+	#NIG_demand_independence - NIG demands their independence from ENG
+	#NIG_UDI - NIG unilaterally declares their independence from ENG
+	#NIG_hold_elections - NIG holds elections

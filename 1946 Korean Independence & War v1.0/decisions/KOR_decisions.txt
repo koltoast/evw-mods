@@ -1,0 +1,2 @@
+#KoreanWar_decisions.txt:
+	#armistice_koreanwar_KOR - KOR ask for peace after the Korean War stalemate

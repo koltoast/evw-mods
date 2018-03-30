@@ -1,0 +1,3 @@
+#VietnamWar_decisions.txt:
+	#leave_indochina_CHI - Whether to leave Indochina after IDC took back Saigon from the rebels or not
+	#intervene_firstindochinawar_CHI - Whether the Kuomintang want to support IDC (anti-communist) or DRV (anti-colonialist)

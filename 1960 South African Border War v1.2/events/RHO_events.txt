@@ -1,0 +1,2 @@
+#BorderWar_events.txt:
+	#232000		#Multi-Event 02 for KON/MOZ/RHO – Support SAF (Minor)

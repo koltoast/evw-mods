@@ -1,0 +1,3 @@
+#TurkishInvasionCYP_events.txt:
+	#347000	- The Cypriot Question
+	#347001	- The Turkish Republic of Northern Cyprus

@@ -1,0 +1,2 @@
+#KoreanWar_decisions.txt:
+	#intervene_koreanwar_CHC - Communist China intervenes in the Korean War

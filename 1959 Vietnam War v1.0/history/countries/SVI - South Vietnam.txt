@@ -1,0 +1,99 @@
+capital = 12296
+government = republic_gov
+ideology = social_cons_idolg
+alignment = { x = 0 y = 0 }
+neutrality = 0
+national_unity = 100
+
+#########
+#CULTURE#
+#########
+national_culture = south_asia
+national_religion = christianity
+national_identity = state_building_focus
+national_attitude = imperialism
+
+
+######
+#LAWS#
+######
+#constitutional_law = republic
+organized_religions_law = secular_state
+civil_liberties = emergency_law
+freedom_of_the_press = censored_press
+elections_and_voting = gerrymandering
+military_service = expanded_drafted_army
+rule_of_law = narrowly_defined
+human_rights = cultural_relativism
+public_oversight = limited_oversight
+
+
+
+########
+#POLICY#
+########
+foreign_policy = detente_pol
+intelligence_policy = intelligence_gathering_pol
+armaments_policy = conventional_warfare_focus_pol
+military_policy = two_y_service_pol
+nuclear_policy = civilian_nuclear_focus_pol
+domestic_policy = agricultural_focus_pol
+internal_policy = oppressive_aff_pol
+economic_policy = resource_based_policy_pol
+fiscal_policy = reduced_taxation_pol
+education_policy = high_funding_edu_pol
+
+
+##################
+#Party Popularity#
+##################
+popularity = { 
+	fascistic_idolg = 0
+	paternal_auto_idolg = 10
+	social_cons_idolg = 40
+	market_liberal_idolg = 0
+	social_liberal_idolg = 0
+	social_democrat_idolg = 30
+	left_wing_radical_idolg = 10
+	maoist_idolg = 10
+	communist_idolg = 0
+}
+
+oob = "empty.txt"
+
+1946.1.1 = {
+	oob = "empty.txt"
+ 	head_of_state = 1333000	
+	head_of_government = 1333011 	
+}
+1948.5.14 = {
+ 	head_of_state = 1333000	
+	head_of_government = 1333011	
+}
+1950.6.25 = {
+ 	head_of_state = 1333000	
+	head_of_government = 1333013	
+}
+1961.12.11 = {
+	oob = "SVI_1961.txt"
+ 	head_of_state = 1333001	
+	head_of_government = 1333016	
+	set_country_flag = 1955_referendum_SVI_done	
+}
+1963.11.2 = {
+	alignment = { x = -100 y = 0 }
+ 	head_of_state = 1333002	
+	head_of_government = 1333017
+	government = authoritarian_gov
+	#constitutional_law = authoritarian
+	elections_and_voting = single_party_system
+}
+1979.12.24 = {
+
+}
+1982.1.1 = {
+
+}
+1991.1.16 = {
+
+}

@@ -1,0 +1,12 @@
+##################################################################################################
+# scriptable and usable for event-system below.
+##################################################################################################
+
+mod_UN_settlement_of_disputes_declaration_failure_delay = {
+}
+
+mod_UN_settlement_of_disputes_declaration = {
+}
+
+mod_UN_settlement_of_disputes_voting_delay = {
+}

@@ -1,0 +1,3 @@
+#KoreanWar_events.txt 151050-151051:
+	#151050 - PRK asks for support for the invasion of KOR
+	#151051 - intervene_koreanwar_CHC follow-up event

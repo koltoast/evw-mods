@@ -1,0 +1,5 @@
+#VietnamWar_decisions.txt:
+	#1959_US_vietnam_support_no_tonkin 	- Decision for joining the Vietnam war without the Tonkin Incident
+	#1959_US_vietnam_support_tonkin 	- Decision for joining the Vietnam war with the Tonkin Incident
+	#vietnam_USA_leave_war 				- Surrender event where USA leaves vietnam due to high dissent
+	#vietnam_USA_leave_war_DRV_victory 	- Surrender event where USA leaves vietnam because DRV has won

@@ -1,0 +1,13 @@
+# Every 4 years:
+
+# Each UN member receives an event asking them to set their UN funding level.
+
+# Three Options:
+	# 1. Minimum funding
+	# 2. Moderate funding
+	# 3. High funding
+	
+# UN Secretary General receives an event giving them the UN funding result	
+			
+	
+	

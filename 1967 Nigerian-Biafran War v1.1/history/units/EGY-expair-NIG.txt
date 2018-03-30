@@ -1,0 +1,16 @@
+#Egyptian bombers in Nigeria - Nigerian civil war
+	army = 
+	{
+		name = "Egyptian Expeditionary Army"
+		location = 5152
+		regiment = { type = hq_brigade name = "Army HQ" historical_model = 0 }
+		expeditionary_owner = EGY
+
+		air = {
+			name = "Egyptian bombers"
+			base = 5152
+			location = 5152
+			expeditionary_owner = EGY
+			wing = { type = bomber_strike name = "1st Strike Bomber Wing" historical_model = 1 strength = 6 }
+		}
+	}

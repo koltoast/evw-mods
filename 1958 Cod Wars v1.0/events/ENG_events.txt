@@ -1,0 +1,6 @@
+#CodWar_events.txt 181002-181006:
+	#181002 - ICL extends its territorial water to 12 nm (the first time)
+	#181003 - ICL extends its territorial water to 50 nm (the first time)
+	#181004 - ICL extends its territorial water to 50 nm (the second time)
+	#181005 - ICL extends its territorial water to 200 nm (the second time)
+	#181006 - ICL extends its territorial water to 200 nm (the third time)

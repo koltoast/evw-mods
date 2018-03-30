@@ -1,0 +1,3 @@
+#KMTRetreat_decisions.txt 354010:
+	#354010 - Taiwan Strait crisis Communist China declares war - Triggered by CHC event 151024 - US sends fleet to blockade Taiwan straight
+	

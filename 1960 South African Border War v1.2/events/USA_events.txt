@@ -1,0 +1,2 @@
+#BorderWar_events.txt:
+	#354020		#Event 01 for USA – Support SAF (Major)

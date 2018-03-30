@@ -1,0 +1,4 @@
+#BushWar_events.txt:
+	#RHO_independence_referendum 	- RHO Demands Independence
+	#RHO_UDI						- RHO unilaterally declares independece			
+	#RHO_white_supremacy_ends		- RHO ends white supremacy 

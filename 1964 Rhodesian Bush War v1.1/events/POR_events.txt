@@ -1,0 +1,4 @@
+#BushWar_events.txt:
+	#289002 – MOZ revolt risk
+	#289000 - POR – MOZ independence war start
+	#289001 - POR – MOZ independence war end

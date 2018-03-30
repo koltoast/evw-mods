@@ -1,0 +1,3 @@
+#ManchuriaTransfer_events.txt 151013-151014:
+	#151013 - The Soviets hand over Manchuria
+	#151014 - The Soviets hand over Manchuria... to the Nationalists

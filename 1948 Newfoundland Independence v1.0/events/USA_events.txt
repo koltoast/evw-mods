@@ -1,0 +1,5 @@
+#NewfoundlandIndependence_events.txt 354090-354093:
+	#354090 - Should we desire Newfoundland? (USA)
+	#354091 - We have been given Newfoundland (USA)
+	#354092 - Canada accepts our offer of mainland Newfoundland in exchange for fishing rights
+	#354093 - Canada rejects our offer of mainland Newfoundland in exchange for fishing rights

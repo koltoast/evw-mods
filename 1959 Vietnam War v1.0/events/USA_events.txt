@@ -1,0 +1,10 @@
+#VietnamWar_events.txt 354005-354013:
+	#354005 - Gulf of Tonkin Incident
+	#354006 - USA supports SVI without Tonkin
+	#354007 - USA supports SVI with Tonkin
+	#354008 - Anti-Vietnam War demonstrations, Democratic USA
+	#354009 - Anti-Vietnam War riots, Democratic USA
+	#354010 - Anti-Vietnam War rally, Democratic USA
+	#354011 - Anti-Vietnam War demonstrations, Autocratic USA
+	#354012 - Anti-Vietnam War riots, Autocratic USA
+	#354013 - Anti-Vietnam War rally, Autocratic USA

@@ -1,0 +1,2 @@
+#NewfoundlandIndependence_decisions.txt:
+	#dec_ENG_offer_newfoundland_to_Canada - Offer Newfoundland to Canada

@@ -1,0 +1,5 @@
+#BiafranWar_events.txt:
+	#181020	- The Nigerian Question (Optional Release)
+	#181021	- Nigeria demands independence (Demanded Release)
+	#181022	- Nigeria unilaterally declares its independence
+	#181023	- Support NIG

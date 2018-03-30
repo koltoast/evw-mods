@@ -1,0 +1,5 @@
+#VietnamWar_events.txt 152000-152003:
+	#152000 - leave_indochina_CHI follow-up event
+	#152001 - CHI has to give Hanoi to IDC. Triggered by OPTA of FRA194002
+	#152002 - CHI has to back Hanoi to DRV after DRV has beaten the French
+	#152003 - intervene_firstindochinawar_CHI follow-up event

@@ -1,0 +1,2 @@
+#BorderWar_events.txt:
+	#151040		#Event 01 for CHC – Pick a side! (Major)

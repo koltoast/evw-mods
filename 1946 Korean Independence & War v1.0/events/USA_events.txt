@@ -1,0 +1,10 @@
+#KoreanWar_events.txt 354000,354040-354049:
+	#354040 - Joint Commission on Korea - USA
+	#354041 - North Korea declares its independence - how shall we respond?
+	#354042 - Joint Commission fails to reach agreement - USA
+	#354045 - Leftists in southern Korea
+	#354046 - UN decides on supervised elections in Korea
+	#354047 - USSR boycotts Korean elections
+	#354048 - Jeju Rebellion
+	#354049 - Election in South Korea
+	#354000 - intervene_koreanwar_USA follow-up event

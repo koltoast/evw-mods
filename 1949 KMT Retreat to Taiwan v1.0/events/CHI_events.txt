@@ -1,0 +1,5 @@
+#KMTRetreat_decisions.txt 152020-152023:
+	#152020 - PRC Declared #1 - Triggered by CHC decision establish_the_prc_CHC
+	#152021 - PRC Declared #2 - Triggered by CHC decision establish_the_prc_CHC
+	#152022 - Peace between PRC and RoC - Triggered by CHC decision ceasefire_with_KMT_CHC Opt B
+	#152023 - USA defends Taiwan against PRC Triggered by USA - Triggered by CHC event 151024 - US sends fleet to blockade Taiwan straight

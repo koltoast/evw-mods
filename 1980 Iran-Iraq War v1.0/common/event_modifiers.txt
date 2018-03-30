@@ -1,0 +1,134 @@
+revolutionary_disarry = {
+	land_organisation = -0.20
+}
+
+airforce_topguns = {
+	air_organisation = 0.20
+}
+
+Iran_fights = {
+	territorial_pride = 0.2
+}
+
+fight_kurds = {
+	global_revolt_risk = 4
+}
+ignore_kurds = {
+	global_revolt_risk = 8
+}
+
+placate_kurds = {
+	global_revolt_risk = 2
+	global_money = -0.2
+}
+
+Syrian_oilpipeline = {
+	global_money = -0.6
+}
+
+KWT_Iraq_cost = {
+	global_money = -0.2
+}
+
+KWT_Iraq_money = {
+	global_money = 0.2
+}
+
+Sau_Iraq_cost = {
+	global_money = -0.3
+}
+
+Sau_Iraq_money = {
+	global_money = 0.3
+}
+
+USA_Iraq_cost = {
+	global_money = -0.1
+	global_supplies = -0.1
+}
+
+USA_Iraq_support = {
+	global_money = 0.1
+	global_supplies = 0.1
+	offmap_land_intel = 0.1
+}
+
+Fra_Iraq_cost = {
+	global_supplies = -0.05
+}
+
+FRA_Iraq_support = {
+	global_supplies = 0.05
+}
+
+SOV_Iraq_cost = {
+	global_supplies = -0.05
+}
+
+SOV_Iraq_support = {
+	global_supplies = 0.05
+}
+
+GER_Iraq_cost = {
+	global_supplies = -0.05
+}
+
+GER_Iraq_support = {
+	global_supplies = 0.05
+}
+
+China_Iran_cost = {
+	global_supplies = -0.05
+}
+
+China_Iran_support = {
+	global_supplies = 0.05
+}
+
+Iraq_Totalwar = {
+	global_supplies = 0.05
+	global_manpower_modifier = 0.05
+}
+
+Tanker_losses = {
+	global_money = -0.1
+}
+
+Fatwa_on_Iraq = {
+	global_manpower_modifier = 0.05
+	land_organisation = 0.10
+}
+
+Iraqi_rally = {
+	territorial_pride = 0.2
+}
+
+# Cooldown timer
+Iranian_crisis = {
+	
+}
+
+Iran_Airforce_purge = {
+	air_organisation = -0.10
+}
+
+Iraq_militaryCrisis = {
+	land_organisation = -0.10
+	air_organisation = -0.10
+}
+
+Iran_militaryCrisis = {
+	land_organisation = -0.10
+	air_organisation = -0.10
+}
+
+Iran_militaryCrisis_II = {
+	land_organisation = -0.10
+	air_organisation = -0.10
+}
+Iran_Navy_losses = {
+	naval_organisation = -0.10
+}
+Iran_oilrig_losses  = { 
+	global_crude_oil = 0.1
+}

@@ -1,0 +1,3 @@
+#KMTRetreat_decisions.txt:
+	#establish_the_prc_CHC - Establish the People's Republic once the Civil War is almost won
+	#ceasefire_with_KMT_CHC - Sign a cease-fire with the Nationalists in Taiwan (Human only, AI still has event chain to do this)

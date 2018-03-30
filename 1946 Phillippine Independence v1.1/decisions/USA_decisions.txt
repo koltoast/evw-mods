@@ -1,0 +1,3 @@
+#PhilipineIndependence_decisions.txt:
+	#USA_fate_of_philippines
+	#USA_intervention_philippines

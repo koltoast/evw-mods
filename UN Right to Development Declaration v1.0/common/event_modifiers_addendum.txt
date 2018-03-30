@@ -1,0 +1,12 @@
+##################################################################################################
+# scriptable and usable for event-system below.
+##################################################################################################
+
+mod_UN_right_to_development_declaration_failure_delay = {
+}
+
+mod_UN_right_to_development_declaration = {
+}
+
+mod_UN_right_to_development_voting_delay = {
+}

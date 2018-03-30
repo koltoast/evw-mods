@@ -1,0 +1,2 @@
+#KoreanWar_decisions.txt:
+	#intervene_koreanwar_USA - The USA can help South Korea

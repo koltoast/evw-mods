@@ -1,0 +1,2 @@
+#KoreanWar_decisions.txt:
+	#dec_SOV_establish_DPRK - The Soviets grant North Korea independence

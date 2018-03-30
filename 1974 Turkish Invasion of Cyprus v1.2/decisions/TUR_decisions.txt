@@ -1,0 +1,2 @@
+#TurkishInvasionCYP_decisions.txt:
+	#dec_TUR_cypriot_issue - TUR considers the Cyprus issue, triggering TUR event #347000
